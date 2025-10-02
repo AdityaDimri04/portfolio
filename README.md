@@ -32,7 +32,7 @@ portfolio/
 ---
 
 ## ⚡ Live Demo
-[View Portfolio](https://AdityaDimri04.github.io/portfolio/)  
+[View Portfolio](https://portfolio-seven-azure-z50lcyfhp5.vercel.app/)  
 
 ---
 
